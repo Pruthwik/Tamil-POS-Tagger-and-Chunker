@@ -1,0 +1,16 @@
+நகரில்	N_NN	B-NP
+தனியார்	N_NN	I-NP
+லாட்ஜ்கள்	N_NN	I-NP
+உள்ளன	V_VM	B-VGF
+.	RD_PUNC	B-BLK
+
+ஜலந்திரனின்	N_NNP	B-NP
+மனைவி	N_NN	I-NP
+பிருந்தையின்	N_NN	I-NP
+கற்பு	N_NN	I-NP
+வலிமையினால்	N_NN	I-NP
+ஜலந்திரனை	N_NN	I-NP
+வெல்ல	V_VM_VINF	B-VGINF
+முடியவில்லை	V_VAUX	B-VGF
+.	RD_PUNC	B-BLK
+
